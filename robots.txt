@@ -1,0 +1,7 @@
+User-Agent: *
+
+Disallow: /img
+
+Disallow: /seo
+
+Disallow: /steps

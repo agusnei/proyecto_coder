@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+@import "_typo";
+@import "_var";
+@import "_bg";
+@import "_nav";
+
+
+/*-------import Bootstrap--------------*/
+@import "../node_modules/bootstrap/scss/bootstrap.scss";

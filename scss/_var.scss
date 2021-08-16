@@ -1,0 +1,20 @@
+// scss-docs-start theme-colors-map
+$theme-colors: (
+// background botones
+  "primary":    #e9c9a6,
+
+  "secondary":  #7e7561,
+
+  "success":    #a83f23,
+//  background para dividir section dentro de header
+  "info":       #e7e3df,
+//   border botones y cards
+  "warning":    #c88c42,
+
+  "danger":     #391708,
+//   background navbar - background footer // fondos form email-contactos //
+  "light":      #e7d8c7,
+// textos, border de suscribirse y forms contactos
+  "dark":       #812e17
+) 
+// scss-docs-end theme-colors-map

@@ -1,0 +1,11 @@
+/*--------------//----nav activa-------//----*/
+nav ul li a.active{
+    text-decoration: underline;
+}
+.sin-deco{
+    text-decoration: none;
+}
+ul li:hover ul {
+    display:block;
+    padding: 10px;
+}

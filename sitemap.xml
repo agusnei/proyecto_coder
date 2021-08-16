@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.joyas.com.ar/</loc>
+  <lastmod>2021-05-20T11:54:59+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.joyascom.ar/index.html</loc>
+  <lastmod>2021-05-20T11:54:59+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.joyas.com.ar/nosotros_joyas_neira.html</loc>
+  <lastmod>2021-05-20T11:54:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.joyas.com.ar/tienda_joyas_neira.html</loc>
+  <lastmod>2021-05-20T11:54:59+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.joyas.com.ar/eventos_joyas_neira.html</loc>
+  <lastmod>2021-05-20T11:54:59+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://www.joyas.com.ar/contacto_joyas_neira.html</loc>
+  <lastmod>2021-05-20T11:54:59+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+
+</urlset>
