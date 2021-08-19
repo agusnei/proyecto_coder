@@ -21,6 +21,9 @@ h4, .h4 {
 p {
   color: #7e7561; }
 
+.a {
+  color: #7e7561; }
+
 .text-sec {
   color: #7e7561; }
 
@@ -68,7 +71,14 @@ header nav, header section, body section, footer {
   background-image: url(../img/taller/taller8.jpg);
   background-attachment: fixed;
   background-size: cover;
-  background-position: center top;
+  background-position: center;
+  height: 100vh; }
+
+.header404 {
+  background-image: url(../img/404/404_1.png);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
   height: 100vh; }
 
 .s-h-100 {
