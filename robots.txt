@@ -5,3 +5,5 @@ Disallow: /img
 Disallow: /seo
 
 Disallow: /steps
+
+Disallow: /node_modules

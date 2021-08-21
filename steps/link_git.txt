@@ -1,5 +1,8 @@
-link index:
+link index ''GIT'':
 https://agusnei.github.io/proyecto_coder/
 
-lin repo:
+link index ''000webhostapp'':
+https://joyasartesanales.000webhostapp.com/index.html
+
+lin repositorio ''GIT'':
 https://github.com/agusnei/proyecto_coder.git
