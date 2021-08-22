@@ -7,3 +7,5 @@ Disallow: /seo
 Disallow: /steps
 
 Disallow: /node_modules
+
+Disallow: /bootstrap
