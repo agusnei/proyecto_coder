@@ -4,5 +4,9 @@ https://agusnei.github.io/proyecto_coder/
 link index ''000webhostapp'':
 https://joyasartesanales.000webhostapp.com/index.html
 
+link index ''netlify'':
+https://mab-joyasartesanales.netlify.app/
+
 lin repositorio ''GIT'':
 https://github.com/agusnei/proyecto_coder.git
+
