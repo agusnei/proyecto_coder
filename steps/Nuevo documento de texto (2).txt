@@ -1,0 +1,28 @@
+ "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "node-sass --include-path scss scss/style.scss css/style.css",
+    "watch-css": "nodemon -e scss -x \"npm run build-css\"",
+    "build-bt": "node-sass --include-path scss bootstrap/bootstrap.scss css/bootstrap.css",
+    "watch-bt": "nodemon -e scss -x \"npm run build-bt\""
+  },
+  
+  
+  
+  
+  <script>
+ /* Ajax del formulario */
+
+    const handleSubmit = (e) => {
+    e.preventDefault()
+    let myForm = document.getElementById('contact');
+    let formData = new FormData(myForm)
+    fetch('/', {
+        method: 'POST',
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: new URLSearchParams(formData).toString()
+    }).then(() => document.getElementById("contact").reset()).catch((error) =>
+        alert(error))
+    }
+
+    document.querySelector("form").addEventListener("submit", handleSubmit);
+</script>

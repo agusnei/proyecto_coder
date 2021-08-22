@@ -14,13 +14,12 @@ header nav,header section,body section,footer{
     background-attachment: fixed;
 	background-size: cover;
 	background-position: center top;
-	height: 150vh;
 }
 .headerNos{
-    background-image: url(../img/chica/taller8.jpg);
+    background-image: url(../img/taller/taller_diamante.jpg);
     background-attachment: fixed;
 	background-size: cover;
-	background-position: center ;
+	background-position: center bottom;
 	height: 100vh;
 }
 .header404{
@@ -30,19 +29,16 @@ header nav,header section,body section,footer{
 	background-position: center;
 	height: 100vh;
 }
-    .s-h-100{
-        height: 100vh;
-    }
-    .s-h-75{
-        height: 75vh;
-    }
-    .s-h-50{
-        height: 50vh;
-    }
+
 .headerTienda{
-    background-image: url(../img/chica/chica_dije.jpg);
+    background-image: url(../img/chica/chica_aro_anillo.jpg);
     background-attachment: fixed;
 	background-size: cover;
 	background-position: center top;
-	height: 100vh;
+}
+.headerContacto{
+    background-image: url(../img/contacto/contacto.jpg);
+    background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
 }
