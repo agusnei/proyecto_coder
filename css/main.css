@@ -73,8 +73,7 @@ header nav, header section, body section, footer {
   background-image: url(../img/404/404_1.png);
   background-attachment: fixed;
   background-size: cover;
-  background-position: center;
-  height: 100vh; }
+  background-position: center; }
 
 .headerTienda {
   background-image: url(../img/chica/chica_aro_anillo.jpg);
