@@ -1,3 +1,7 @@
+//sobra acordeon items//
+$component-active-bg: #812e17;
+
+
 // scss-docs-start theme-colors-map
 $theme-colors: (
 // background botones
@@ -7,7 +11,7 @@ $theme-colors: (
 
   "success":    #a83f23,
 //  background para dividir section dentro de header
-  "info":       #e7e3df,
+  "info":       #fff8f0,
 //   border botones y cards
   "warning":    #c88c42,
 
@@ -17,4 +21,3 @@ $theme-colors: (
 // textos, border de suscribirse y forms contactos
   "dark":       #812e17
 ) 
-// scss-docs-end theme-colors-map
