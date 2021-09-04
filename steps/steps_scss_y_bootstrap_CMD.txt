@@ -9,7 +9,7 @@
 			"build-css": "node-sass --include-path scss scss/main.scss css/main.css",
 			"watch-css": "nodemon -e scss -x \"npm     run build-css\""
 8- CMD ---- npm run build-css
-9- CMD ---- npm run watch-css
+9- CMD ---- npm run watch-css	
 10-CMD ---- importar el archivo principal de bootstrap, que me trae todo todito:
 	- abrir mi MAIN.SCSS --> agregar al final de todos los import:
 							@import "../node_modules/bootstrap/scss/bootstrap";

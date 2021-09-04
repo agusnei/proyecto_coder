@@ -9,3 +9,13 @@ ul li:hover ul {
     display:block;
     padding: 10px;
 }
+$navbar-light-color: rgba(#e9c9a6, .5) ;
+$navbar-light-hover-color: rgba(#e9c9a6, .7) ;
+$navbar-light-active-color: #e9c9a6 ;
+
+// menu desplegable navbar dropdown
+$dropdown-link-color: #e9c9a6;
+$dropdown-link-hover-color:  #b53117;
+$dropdown-link-hover-bg:  #e9c9a6 ;
+$dropdown-link-active-color:  #b53117;
+$dropdown-link-active-bg:   #b53117;

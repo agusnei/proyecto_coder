@@ -1,7 +1,3 @@
-//sobra acordeon items//
-$component-active-bg: #812e17;
-
-
 // scss-docs-start theme-colors-map
 $theme-colors: (
 // background botones
@@ -9,15 +5,18 @@ $theme-colors: (
 
   "secondary":  #7e7561,
 
-  "success":    #a86552,
-//  background para dividir section dentro de header
-  "info":       #fff8f0,
-//   border botones y cards
-  "warning":    #c88c42,
+  // "success":    #c88c42,
 
-  "danger":     #391708,
-//   background navbar - background footer // fondos form email-contactos //
-  "light":      #e7d8c7,
-// textos, border de suscribirse y forms contactos
-  "dark":       #812e17
+  //  background para dividir section dentro de header
+  "info":       #fff8f0,
+
+  //   border botones y cards
+  // "warning":    #c88c42,
+
+  "danger":     #aa1e12,
+
+  //   background navbar - background footer // fondos form email-contactos //
+  "light":      #b53117,
+// textos, border y forms contactos
+  "dark":       #aa1e12
 ) 

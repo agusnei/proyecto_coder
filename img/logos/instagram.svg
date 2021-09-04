@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-instagram"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<path fill="none" stroke="#E9C9A6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M6.781,1.494h10.563
+	c2.917,0,5.281,2.36,5.281,5.271v10.543c0,2.912-2.364,5.271-5.281,5.271H6.781c-2.917,0-5.281-2.359-5.281-5.271V6.766
+	C1.5,3.854,3.865,1.494,6.781,1.494z"/>
+<path fill="none" stroke="#E9C9A6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M16,11.37
+	c0.324,2.185-1.185,4.22-3.37,4.544c-2.185,0.323-4.219-1.186-4.543-3.371C7.763,10.358,9.271,8.324,11.457,8
+	c0.389-0.058,0.784-0.058,1.173,0C14.373,8.258,15.742,9.627,16,11.37z"/>
+<line fill="none" stroke="#E9C9A6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x1="17.5" y1="6.5" x2="17.51" y2="6.5"/>
+</svg>

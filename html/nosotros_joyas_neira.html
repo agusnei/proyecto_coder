@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- Bootstrap CSS de mi main--------- -->
     <link rel="stylesheet" href="../css/main.css">
+<!-- animations -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet"> 
 <!-- titulo de mi proyecto -->
     <title>Un poco sobre nosotros</title>
 <!-- description y keywords  -->
@@ -62,19 +64,19 @@
     <!-- logo redes sociales         -->
                 <div class="navbar-brand mx-auto">
                     <a class="sin-deco" href="https://www.instagram.com/mab.joyasartesanales/" >
-                        <img src="../img/logos/instagram.svg" class="" alt="logo instagram" width="20px">
+                        <img src="../img/logos/instagram.svg" class="animation-scale2" alt="logo instagram" width="20px">
                     </a>
                     <a class="sin-deco" href="https://www.facebook.com/mirbau141">
-                    <img src="../img/logos/facebook.svg" class="" alt="logo facebook" width="20px">
+                    <img src="../img/logos/facebook.svg" class="animation-scale2" alt="logo facebook" width="20px">
                     </a>
                     <a class=""  href="#">
-                    <img src="../img/logos/whatsapp.svg"  class="" alt="logo whatsapp" width="20px"></a>
+                    <img src="../img/logos/whatsapp.svg"  class="animation-scale2" alt="logo whatsapp" width="20px"></a>
                 </div>   
             </div>
         </nav>
 <!-- cierra nav -->
 <!-- primera seccion nostros|   -->
-        <div class="conteiner m-3">
+        <div class="conteiner m-3" data-aos="fade-right" data-aos-duration="3000">
             <div class="mt-4">
                 <div class="col-12 bg-cita text-center">
                     <p class="h6">
@@ -92,24 +94,24 @@
         <div class="container-fluid mt-4 mb-4">
             <div class="row flex-lg-row flex-sm-column-reverse">
                 <div class="container-fluid row align-items-center">
-                    <div class="col-lg-6">
+                    <div class="col-lg-6" data-aos="fade-left" data-aos-duration="1200">
                         <h2 class="h5">
                             <strong>Impronta santacruceña</strong> 
                         </h2> 
                         <p> Fabricar una joya parte de la imaginación, de la creatividad. <br> Trabajar en una joya con impronta santacruceña es acercarse a los <strong> íconos originarios de esta provincia</strong>, a las milenarias figuras encontradas en pinturas rupestres, en hallazgos arqueológicos; a guardas tehuelches que fueron parte por ejemplo, de un “quillango” o de una “ruana” y que hoy pueden formar parte de una combinación de metal, tierra, carbón, lana, piedra, plata, alpaca, cobre, bronce, para dar origen a una pieza original. <br> También es hablar de un diseño contemporáneo donde la impronta santacruceña está dada por el material utilizado. <br> Claras son las características que dan originalidad e identidad a estos productos que pueden marcar tendencias y diferencias en varios aspectos. Un elemento milenario como es el carbón mineral o las Tobáceas puestos al servicio de la orfebrería para la creación de una  joya moderna y artesanal con identidad provincial.
                         </p>  
                     </div>
-                    <article class="col-lg-6">
+                    <article class="col-lg-6" data-aos="fade-right" data-aos-duration="1200" >
 <!-- carousel imagenes dentro de acordion item -->
                         <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
-                            <div class="carousel-inner border border-warning border-2 rounded p-2">
+                            <div class="carousel-inner border border-dark border-2 rounded p-1">
                                 <div class="carousel-item active">
                                     <img src="../img/taller/taller6.jpg" class="d-block w-100" alt="orfebreria en taller plata anillos">
                                 </div>
-                                <div class="carousel-item">
+                                <div class="carousel-item" data-bs-interval="5000">
                                     <img src="../img/taller/taller5.jpg" class="d-block w-100" alt="orfebreria en taller hombre fuego">
                                 </div>
-                                <div class="carousel-item">
+                                <div class="carousel-item" data-bs-interval="5000">
                                     <img src="../img/taller/taller4.jpg" class="d-block w-100" alt="orfebreria en taller agranda anillo">
                                 </div>
                             </div>
@@ -126,47 +128,49 @@
                 <div class="col col-lg-4 ">
                     <ul class="nav flex-column">
                         <li class="nav-item">
-                            <a class="nav-link  text-secondary" aria-current="page" href="../index.html">Home</a>
+                            <a class="nav-link text-primary" aria-current="page" href="../index.html">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-secondary" href="nosotros_joyas_neira.html">Nosotros</a>
+                            <a class="nav-link text-primary" href="nosotros_joyas_neira.html">Nosotros</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-secondary" href="tienda_joyas_neira.html">Tienda</a>
+                            <a class="nav-link text-primary" href="tienda_joyas_neira.html">Tienda</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-secondary" href="eventos_joyas_neira.html">Eventos</a>
+                            <a class="nav-link text-primary" href="eventos_joyas_neira.html">Eventos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-secondary" href="contacto_joyas_neira.html">Contacto</a>
+                            <a class="nav-link text-primary" href="contacto_joyas_neira.html">Contacto</a>
                         </li>
                     </ul>
                 </div>
                 <div class="col col-lg-4 text-center pt-5">
         <!-- logo redes sociales         -->
                     <a class="navbar-brand" href="https://www.instagram.com/mab.joyasartesanales/" >
-                        <img src="../img/logos/instagram.svg"  alt="logo instagram" width="20px">
+                        <img src="../img/logos/instagram.svg" class="animation-scale2"   alt="logo instagram" width="20px">
                     </a>
                     <a class="navbar-brand" href="https://www.facebook.com/mirbau141">
-                        <img src="../img/logos/facebook.svg"  alt="logo facebook" width="20px">
+                        <img src="../img/logos/facebook.svg" class="animation-scale2"  alt="logo facebook" width="20px">
                     </a>
                     <a class="navbar-brand" href="#">
-                        <img src="../img/logos/whatsapp.svg" alt="logo whatsapp" width="20px"></a>
+                        <img src="../img/logos/whatsapp.svg" class="animation-scale2" alt="logo whatsapp" width="20px"></a>
                 </div>
                 <div class="col col-lg-4 py-3 text-center">
             <!-- logo principal footer  -->
                     <a href="../index.html" class="">
                         <img src="../img/logos/LP.png" class="w-75" alt="imagen logo principal">
                     </a>
-                    <p class="pt-5 text-secondary">Joyas que marcan distinción y originalidad</p>
-                    <p class="text-secondary">
+                    <p class="pt-5 text-primary">Joyas que marcan distinción y originalidad</p>
+                    <p class="text-primary">
                         © M.a.B' Diseño - 2021 
                     </p>
                 </div>
             </div>
         </div>
     </footer>    
-
+        <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+        <script>AOS.init();
+        </script>
   <!-- Optional JavaScript; choose one of the two! -->
   <!-- Option 1: Bootstrap Bundle with Popper -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>

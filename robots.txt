@@ -9,3 +9,5 @@ Disallow: /steps
 Disallow: /node_modules
 
 Disallow: /bootstrap
+
+Disallow: /scss
